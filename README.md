@@ -6,6 +6,7 @@ Analise do catalogo da Netflix com dados reais (8.800+ titulos)
 ## Principais Descobertas
 
 ### 1. Filmes vs Series
+![Filmes vs Séries](filmes_vs_series.png)
 - **Filmes:** 69.9%
 - **Series:** 30.1%
 
