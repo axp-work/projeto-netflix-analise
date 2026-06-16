@@ -1,4 +1,4 @@
-# Analise de Conteudo Netflix
+# Analise de Conteúdo Netflix
 
 ## Visao Geral
 Analise do catalogo da Netflix com dados reais (8.800+ titulos)
