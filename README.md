@@ -14,7 +14,7 @@ Analise do catalogo da Netflix com dados reais (8.800+ titulos)
 Crescimento acelerado a partir de 2015
 
 ### 3. Top Paises Produtores
-![Top Paises](top_paises.png)
+![Top Paises](Top_paises.png)
 1. Estados Unidos
 2. India
 3. Reino Unido
